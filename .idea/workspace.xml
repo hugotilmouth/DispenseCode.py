@@ -2,8 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a01f8d24-1cd2-44ef-9495-262bfc39811b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver/Adafruit_DHT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADS1x15/Adafruit_ADS1x15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADS1x15/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADS1x15/ads1x15_ex_comparator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADS1x15/ads1x15_ex_differential.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADS1x15/ads1x15_ex_singleended.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADXL345/Adafruit_ADXL345.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_ADXL345/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_BMP085/Adafruit_BMP085.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_BMP085/Adafruit_BMP085_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_BMP085/Adafruit_BMP085_googledocs_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_BMP085/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_BMP085/DEPRECATED.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCD/Adafruit_CharLCD.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCD/Adafruit_CharLCD_IPclock_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCD/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCD/Adafruit_MCP230xx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCD/LCD_MCP230XX_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCDPlate/Adafruit_CharLCDPlate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCDPlate/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCDPlate/Adafruit_MCP230xx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCDPlate/LCDtest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_CharLCDPlate/LCDtest_20x4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver/Adafruit_DHT.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver/Adafruit_DHT_googledocs.ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver/DEPRECATED.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver_Python/Adafruit_DHT.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver_Python/DEPRECATED.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver_Python/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver_Python/dhtreader.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_DHT_Driver_Python/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_I2C/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/Adafruit_7Segment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/Adafruit_8x8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/Adafruit_Bargraph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/Adafruit_LEDBackpack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/ex_7segment_clock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/ex_8x8_color_pixels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/ex_8x8_pixels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDBackpack/ex_bargraph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LEDpixels/Adafruit_LEDpixels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LSM303/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_LSM303/Adafruit_LSM303.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP230xx/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP230xx/Adafruit_MCP230xx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP3002/MCP3002.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP3008/mcp3008.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP4725/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP4725/Adafruit_MCP4725.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_MCP4725/sinewave.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_PWM_Servo_Driver/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_PWM_Servo_Driver/Adafruit_PWM_Servo_Driver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_PWM_Servo_Driver/Servo_Example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_TCS34725/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_TCS34725/Adafruit_TCS34725.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_TCS34725/Adafruit_TCS34725_Example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_VCNL4000/Adafruit_I2C.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_VCNL4000/Adafruit_VCNL4000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/Adafruit_VCNL4000/Adafruit_VCNL4000_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit-Raspberry-Pi-Python-Code/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adafruit_PWM_Servo_Driver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dispence Code" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servo_Example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test code" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VendingTest1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VendingTest1.py.save" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingInterface.py" afterPath="$PROJECT_DIR$/VendingInterface.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +107,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Servo_Example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Servo_Example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VendingInterface.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VendingInterface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="e#19#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,7 +165,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/VendingInterface.py" />
         <option value="&lt;c0b01fd4-f624-459d-84e8-89e24cfacdcb&gt;/home/pi/Documents/ChargedUpV1/test.py" />
         <option value="&lt;c0b01fd4-f624-459d-84e8-89e24cfacdcb&gt;/home/pi/Documents/ChargedUpV1/VendingInterface.py" />
         <option value="&lt;c0b01fd4-f624-459d-84e8-89e24cfacdcb&gt;/home/pi/Documents/ChargedUpV1/Test code" />
@@ -82,6 +172,7 @@
         <option value="&lt;c0b01fd4-f624-459d-84e8-89e24cfacdcb&gt;/home/pi/Documents/ChargedUpV1/DispenceCode.py" />
         <option value="&lt;c0b01fd4-f624-459d-84e8-89e24cfacdcb&gt;/home/pi/VendingMachineCode/Servo_Example.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/VendingInterface.py" />
       </list>
     </option>
   </component>
@@ -234,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506071622610</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1506071641168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1506071641168</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -283,7 +381,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/VendingInterface.py</url>
-          <line>91</line>
+          <line>94</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -329,16 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VendingInterface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="47" column="31" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <element signature="e#19#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DispenceCode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -360,6 +448,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servo_Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VendingInterface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#19#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
