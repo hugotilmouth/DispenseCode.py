@@ -34,90 +34,6 @@ root.geometry("800x480")
 app = Frame(root)
 app.grid()
 
-def dispense1():
-     pwm.setPWM(0, 0, servoMax)
-     time.sleep(1)
-     pwm.setPWM(0, 0, servoMin)
-
-def dispense2():
-     pwm.setPWM(1, 0, servoMax)
-     time.sleep(1)
-     pwm.setPWM(1, 0, servoMin)
-
-def dispense3():
-     pwm.setPWM(2, 0, servoMax)
-     time.sleep(1)
-
-
-def dispense4():
-    pwm.setPWM(3, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(3, 0, servoMin)
-
-
-def dispense5():
-    pwm.setPWM(4, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(4, 0, servoMin)
-
-
-def dispense6():
-    pwm.setPWM(5, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(5, 0, servoMin)
-
-
-def dispense7():
-    pwm.setPWM(6, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(6, 0, servoMin)
-
-
-def dispense8():
-    pwm.setPWM(7, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(7, 0, servoMin)
-
-
-def dispense9():
-    pwm.setPWM(8, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(8, 0, servoMin)
-
-
-def dispense10():
-    pwm.setPWM(9, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(9, 0, servoMin)
-
-def dispense11():
-    pwm.setPWM(10, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(10, 0, servoMin)
-
-
-def dispense12():
-    pwm.setPWM(11, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(11, 0, servoMin)
-
-
-def dispense13():
-    pwm.setPWM(12, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(12, 0, servoMin)
-
-
-def dispense14():
-    pwm.setPWM(13, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(13, 0, servoMin)
-
-
-def dispense15():
-    pwm.setPWM(14, 0, servoMax)
-    time.sleep(1)
-    pwm.setPWM(14, 0, servoMin)
 
 
 button1 = Button(app, text="Borrow 1", command=dispense1, height=4, width=20)
@@ -164,6 +80,97 @@ button14.grid(row=4, column=1)
 
 button15 = Button(app, text = "Borrow 15",command= dispense15, height = 4, width = 20)
 button15.grid(row=4, column=2)
+
+
+def dispense1():
+    pwm.setPWM(0, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(0, 0, servoMin)
+
+
+def dispense2():
+    pwm.setPWM(1, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(1, 0, servoMin)
+
+
+def dispense3():
+    pwm.setPWM(2, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(2, 0, servoMin)
+
+
+def dispense4():
+    pwm.setPWM(3, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(3, 0, servoMin)
+
+
+def dispense5():
+    pwm.setPWM(4, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(4, 0, servoMin)
+
+
+def dispense6():
+    pwm.setPWM(5, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(5, 0, servoMin)
+
+
+def dispense7():
+    pwm.setPWM(6, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(6, 0, servoMin)
+
+
+def dispense8():
+    pwm.setPWM(7, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(7, 0, servoMin)
+
+
+def dispense9():
+    pwm.setPWM(8, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(8, 0, servoMin)
+
+
+def dispense10():
+    pwm.setPWM(9, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(9, 0, servoMin)
+
+
+def dispense11():
+    pwm.setPWM(10, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(10, 0, servoMin)
+
+
+def dispense12():
+    pwm.setPWM(11, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(11, 0, servoMin)
+
+
+def dispense13():
+    pwm.setPWM(12, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(12, 0, servoMin)
+
+
+def dispense14():
+    pwm.setPWM(13, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(13, 0, servoMin)
+
+
+def dispense15():
+    pwm.setPWM(14, 0, servoMax)
+    time.sleep(1)
+    pwm.setPWM(14, 0, servoMin)
+
 
 root.mainloop()
 
